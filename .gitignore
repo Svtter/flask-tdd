@@ -1,0 +1,8 @@
+flaskr.db
+
+*.pyc
+
+__pycache__
+
+.virtualenvs
+.idea
